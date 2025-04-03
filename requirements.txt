@@ -1,0 +1,14 @@
+django>=4.2
+djangorestframework
+python-decouple
+openai
+
+# Hugging Face 모델 쓸 경우
+transformers
+torch
+
+# Swagger 문서화용
+drf-yasg
+
+# 기타 유틸성 라이브러리 (옵션)
+pandas
